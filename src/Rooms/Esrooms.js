@@ -64,6 +64,19 @@ export const Esrooms = [
 
 },
 {
+	id:6,
+	company: 'Trapped In Limassol',
+	location: 'Limassol',
+	name: 'Poker Nigth',
+	description:'',
+	difficulty: '8/10',
+	rateofescape: NaN,
+	img:'poker.jpg',
+	duration: '60 minutes',
+	playedon: '29-06-2017 , 17:00'
+
+},
+{
 	id:7,
 	company: 'Escape Limassol',
 	location: 'Limassol',

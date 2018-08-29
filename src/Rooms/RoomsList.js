@@ -12,7 +12,8 @@ const RoomsList = ( { Esrooms } ) => {
 						key={Esrooms[i].id} 
 						company ={Esrooms[i].company} 
 						name = {Esrooms[i].name}
-						img = {Esrooms[i].img} 
+						img = {Esrooms[i].img}
+						playedon = {Esrooms[i].playedon} 
 					/>
 					);	
 				})

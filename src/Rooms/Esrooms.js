@@ -47,7 +47,7 @@ export const Esrooms = [
 	rateofescape: NaN,
 	img:'Cold-War.jpg',
 	duration: '60 minutes',
-	playedon: '29-06-2017 , 21:30'
+	playedon: '29-07-2017 , 21:30'
 
 },
 {
@@ -62,6 +62,67 @@ export const Esrooms = [
 	duration: '60 minutes',
 	playedon: '24-12-2017 , 18:30'
 
-}
+},
+{
+	id:6,
+	company: 'Trapped In Limassol',
+	location: 'Limassol',
+	name: 'Poker Nigth',
+	description: '',
+	difficulty: '8/10',
+	rateofescape: NaN,
+	img:'poker.jpg',
+	duration: '60 minutes',
+	playedon: '29-07-2017 , 17:00'
 
+},
+{
+	id:7,
+	company: 'Escape Limassol',
+	location: 'Limassol',
+	name: 'John Monroe Office',
+	description: 'Αγγλία 1970. Ο ιδιωτικός ντετέκτιβ John Monroe είναι πολύ κοντά στο να διαλευκάνει μία από τις μεγαλύτερες υποθέσεις του αιώνα. Αλλά δυστυχώς δολοφονείται μέσα στο ίδιο του το γραφείο. 4 ύποπτοι, 1 δολοφόνος… Μπορείτε να βρείτε τον δολοφόνο του και να αποδράσετε πριν έρθει να σας συλλάβει η αστυνομία;',
+	difficulty: '4/5',
+	rateofescape: NaN,
+	img:'johnmonroeoffice.jpg',
+	duration: '60 minutes',
+	playedon: '04-02-2018 , 12:50'
+
+},
+{
+	id:8,
+	company: 'Escape Limassol',
+	location: 'Limassol',
+	name: 'Lost',
+	description: 'Όμως τα πράγματα δεν πάνε βάση σχεδίου. Πριν το καταλάβετε, εσείς και η ομάδα σας είστε χαμένοι μέσα στην πυκνή ομίχλη του δάσους. Μπορείτε να επιζήσετε και να αποδράσετε μέσα σε 60 λεπτά;',
+	difficulty: '4.5/5',
+	rateofescape: NaN,
+	img:'lost.jpg',
+	duration: '60 minutes',
+	playedon: '04-02-2018 , 16:50'
+},
+{
+	id:9,
+	company: 'Escape Limassol',
+	location: 'Limassol',
+	name: 'Illuminati',
+	description: 'Ο Πάπας έχει πεθάνει κάτω από μυστηριώδεις συνθήκες. Η έρευνα σας έχει οδηγήσει στα άδυτα του Βατικανού και συγκεκριμένα στα ιδιωτικά διαμερίσματα του γραμματέα. Σκοπός σας είναι να αποδείξετε ότι ο Πάπας δολοφονήθηκε και να ξεφύγετε πριν η Ελβετική Φρουρά έρθει να σας συλλάβει…',
+	difficulty: '5/5',
+	rateofescape: NaN,
+	img:'illuminati.jpg',
+	duration: '70 minutes',
+	playedon: '08-10-2017 , 11:50'
+},		
+{
+	id:10,
+	company: 'Escape Limassol',
+	location: 'Limassol',
+	name: 'Taken',
+	description: 'Δύο παιδιά, ο Πίτερ και η Μιράντα, έχουν απηχθεί. Η απουσία των παιδιών ανακαλύφθηκε και αναφέρθηκε στην τοπική αστυνομία από τους γονείς τους.Οι έρευνες για τον εντοπισμό τους ξεκίνησαν αμέσως μετά την απαγωγή τους αλλά ακόμα δεν έχουν βρεθεί αξιόπιστα στοιχεία. Υπάρχει μόνο ένας ύποπτος και μία διεύθυνση. Μπορείτε να βρείτε που βρίσκονται τα παιδιά σε λιγότερο από 60’ και να αποδράσετε;',
+	difficulty: '4/5',
+	rateofescape: NaN,
+	img:'taken.jpg',
+	duration: '60 minutes',
+	playedon: '04-02-2018 , 15:30'
+},	
 ];

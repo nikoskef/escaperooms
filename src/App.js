@@ -35,8 +35,8 @@ class App extends Component {
 		})
 		return isPending ? // !isPending 
 			<h1>Loading page</h1> :	
-		     ( <div className="App">
-		      	<h1>Escape Team!</h1>
+		     ( <div className="App, tc">
+		      	<h1 >Escape Team!</h1>
 		      	<SearchBox searchChange = {onSearchChange}/>
 		      	<ErrorBoundry>
 		        	<RoomsList Esrooms = { filteredRooms }/>

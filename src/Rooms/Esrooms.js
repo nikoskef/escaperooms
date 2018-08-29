@@ -71,7 +71,7 @@ export const Esrooms = [
 	description:'',
 	difficulty: '8/10',
 	rateofescape: NaN,
-	img:'poker.jpg',
+	img:'poker-night.jpg',
 	duration: '60 minutes',
 	playedon: '29-06-2017 , 17:00'
 
